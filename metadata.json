@@ -1,0 +1,6 @@
+{
+  "name": "TranskripAI - Real-time Voice to Doc & AI Assistant",
+  "description": "Alat perekam perangkat dan mikrofon dengan pengetikan transkrip otomatis secara real-time ke dalam dokumen teks, peringkas poin penting, dan asisten AI interaktif.",
+  "requestFramePermissions": ["microphone", "display-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
